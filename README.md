@@ -2,6 +2,8 @@
 
 Protótipo web para divulgar eventos e excursões da comunidade, reservar vagas e acompanhar inscrições. A aplicação inteira está em um único arquivo [`index.html`](index.html), com HTML, CSS e JavaScript puro. Não precisa de build, backend ou banco de dados.
 
+Veja o [tutorial de uso e a demonstração gravada](docs/TUTORIAL.md).
+
 ## O que já funciona
 
 - Catálogo público de eventos, com busca, filtro por categoria, detalhes, vagas e preços.
